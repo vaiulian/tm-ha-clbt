@@ -1,0 +1,6 @@
+1. to run the server: 
+node index.js
+
+2. compile typescript
+tsc phone-db.ts 
+tsc index.ts
